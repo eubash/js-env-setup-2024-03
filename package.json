@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eubash/js-env-setup-2024-03/issues"
   },
-  "homepage": "https://github.com/eubash/js-env-setup-2024-03#readme"
+  "homepage": "https://github.com/eubash/js-env-setup-2024-03#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
